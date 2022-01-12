@@ -1,0 +1,14 @@
+﻿  Mirror.cpp
+d:\vs17opencv\mirror\mirror\mirror.cpp(37): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\vs17opencv\mirror\mirror\mirror.cpp(38): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\vs17opencv\mirror\mirror\mirror.cpp(84): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs17opencv\mirror\mirror\mirror.cpp(86): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Mirror.vcxproj -> D:\vs17opencv\Mirror\x64\Debug\Mirror.exe
